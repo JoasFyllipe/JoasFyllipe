@@ -22,7 +22,6 @@ Sou NOC e Futuro DEV cursando Sistemas de Informação na UNITINS - Universidade
 #### 🌱 Estou estudando atualmente:
 <div style="width: max-content;">
   
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?style=flat&logo=quarkus&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
